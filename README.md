@@ -31,12 +31,12 @@ By the end of the session, you will have:
 
 ## Start here
 
-1. Work in pairs.
+1. Download the data from this repository (if you know how to use `git`, just clone it, otherwise use `<> Code` and `Download ZIP`)
 2. Download the data from https://drive.google.com/drive/folders/19AmMxTvlQK_JP1CFvXofK1UrbfV-1OXV?usp=share_link into the `data/` directory.
-3. Open [`stellar_spectroscopy.ipynb`](stellar_spectroscopy.ipynb).
-4. Run the notebook from the beginning and work through the sections in order.
-5. Discuss the **predictions** and **checkpoints** with your partner before moving on.
-6. Make your own analysis choices—there is not always one uniquely correct answer.
+3. Open [`stellar_spectroscopy.ipynb`](stellar_spectroscopy.ipynb). You need to have `python` and either `Jupyter` or `VSCode` installed to run the code
+4. Work in pairs to work through the notebook from the beginning and work through the sections in order.
+6. Discuss the **predictions** and **checkpoints** with your partner before moving on.
+7. Make your own analysis choices—there is not always one uniquely correct answer.
 
 The practical contains code to handle the routine steps. Your task is to decide **what to measure, how to measure it, and whether the result makes physical sense**.
 
