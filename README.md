@@ -1,0 +1,1 @@
+# rsaa_winterschool_2026_stellar_analysis
